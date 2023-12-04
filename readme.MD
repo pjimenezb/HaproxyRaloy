@@ -27,6 +27,14 @@ Finalmente nos vamos a la ruta del docker compose y ejecutamos
 docker compose up -d 
 ```
 
+**Permisos Linux en caso de no funcionar el comando directo**
+```
+sudo apt-get -y install docker-compose
+
+chmod +x ~/.docker/cli-plugins/docker-compose
+
+```
+
 ## Vista Web
 
 Nos vamos a la sig ruta: http://localhost:1936/
