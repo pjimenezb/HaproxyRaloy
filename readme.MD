@@ -1,7 +1,7 @@
 # Haproxy Docker
 
 ## Descripción General
-Este repositorio contiene los archivos de configuración y los scripts necesarios para implementar una solución robusta y escalable que integra HAProxy como un balanceador de carga. Esta combinación ofrece una plataforma altamente eficiente y confiable para el despliegue de aplicaciones web Raloy
+Este repositorio contiene los archivos de configuración y los scripts necesarios para implementar una solución robusta y escalable que integra HAProxy como un balanceador de carga. Esta combinación ofrece una plataforma altamente eficiente y confiable para el despliegue de aplicaciones web OXIRUS
 
 ![Ha proxy Raloy](image-1.png)
 
